@@ -1,12 +1,13 @@
-# Node modules
-**/node_modules/
-node_modules/
 
 # Lockfiles
 
 
+# Node modules
+# (Previously ignored; removed to allow tracking when needed)
+
 # SQLite DB
-*.sqlite
+# (Previously ignored; removed to allow tracking when needed)
+
 
 # Temporary push folders
 tmp_push_DEVOPS/
