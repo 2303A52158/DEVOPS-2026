@@ -3,7 +3,7 @@
 node_modules/
 
 # Lockfiles
-package-lock.json
+
 
 # SQLite DB
 *.sqlite
