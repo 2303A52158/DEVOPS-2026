@@ -1,0 +1,31 @@
+# Node modules
+**/node_modules/
+node_modules/
+
+# Lockfiles
+package-lock.json
+
+# SQLite DB
+*.sqlite
+
+# Temporary push folders
+tmp_push_DEVOPS/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+
+# Logs
+npm-debug.log
+logs/
+*.log
+
+# Build outputs
+dist/
+build/
+
+# VS Code
+.vscode/
